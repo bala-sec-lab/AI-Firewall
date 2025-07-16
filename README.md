@@ -78,10 +78,6 @@ ghostwall-ai/
 ├── README.md             # This file
 ├── LICENSE               # MIT license
 ├── .gitignore
-└── logs/
-    ├── blocked.log       # Logs blocked IPs with reason & timestamp
-    └── (auto-created)
-
 
 📌 How It Helps in Daily Life
 🚫 Blocks DDoS or brute force attempts automatically
